@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,Summer Madness,Light Of Worlds,Kool & The Gang,1974-09,257866,58,0.00834,0.298,0.327,0.86,0.0724,-16.515,0.031,175.898,4,2021-03-25
+1,Space Talk,The Devil is Loose,Asha Puthli,1976-01-01,337320,41,0.142,0.638,0.432,0.019,0.213,-17.345,0.0754,98.932,4,2021-03-25
+2,Liquid Deep,Liquid Deep,Dreamcastmoe,2016-07-30,235302,36,0.179,0.796,0.152,0.654,0.15,-20.024,0.0511,94.936,4,2021-03-25
+3,Nomalizo,Greatest Hits,Letta Mbulu,2015,308440,52,0.487,0.848,0.507,0.00464,0.0611,-10.094,0.0397,98.262,4,2021-03-25
+4,Underwater Boy,Shiver,Virna Lindt,1984-04-28,378826,38,0.126,0.349,0.578,0.851,0.0999,-9.982,0.0345,79.534,4,2021-03-25
+5,All I Need,Emma Jean,Lee Fields & The Expressions,2014-06-02,214062,45,0.021,0.612,0.792,0.951,0.0987,-7.382,0.0278,115.111,4,2021-03-25
+6,Like a Ship,Like a Ship (Without a Sail),Pastor T.L. Barrett and the Youth for Christ Choir,1971-01-01,278680,50,0.0552,0.402,0.841,0.0,0.139,-8.136,0.0333,169.541,4,2021-03-25
+7,Walkin',The Golden Age of Apocalypse,Thundercat,2011-08-06,126902,7,0.279,0.908,0.435,0.5,0.0889,-8.583,0.0676,124.98,4,2021-03-25
+8,Eyes of Love,Eyes of Love,The Edge Of Daybreak,2015-10-16,253226,35,0.441,0.692,0.626,1.13e-05,0.189,-10.634,0.0345,119.694,4,2021-03-25
+9,Things You Do,Things You Do,Fat Night,2013-02-26,210666,35,0.0864,0.584,0.359,0.0,0.147,-11.415,0.0341,143.308,4,2021-03-25
+10,Grind,Grind / Prelims,Les Sins,2013-03-18,318014,47,0.0501,0.731,0.674,0.869,0.176,-8.281,0.0447,120.015,4,2021-03-25
+11,Lost in A Lonely World,The Best of the Ethics,The Ethics,2003-01-01,154866,41,0.92,0.504,0.116,0.0706,0.103,-11.122,0.0351,105.175,4,2021-03-25
+12,Every Nigger is a Star,Every Nigger is a Star,Boris Gardiner,1973,198853,38,0.754,0.535,0.452,0.0,0.0631,-9.349,0.0361,79.075,4,2021-03-25
+13,Darling Come Back Home,"I Am Your Woman, She Is Your Wife",Barbara Mason,1978-01-01,301120,39,0.000224,0.61,0.602,1.29e-06,0.0769,-9.613,0.0953,96.014,4,2021-03-25
+14,The Rhythm Changes,The Epic,Kamasi Washington,2015-05-04,463897,8,0.224,0.525,0.714,0.00981,0.348,-10.697,0.123,89.757,4,2021-03-25
+15,Time After Time,Time After Time,Step By Step,2018-06-01,293813,30,0.000461,0.59,0.862,0.000808,0.0422,-9.002,0.067,137.554,4,2021-03-25
+16,Go Away Dream,The Chi-Lites,The Chi-Lites,1973,206253,37,0.626,0.567,0.639,0.0,0.105,-8.204,0.0799,165.975,4,2021-03-25
+17,Hang on in There,Hang on in There,Mike James Kirkland,1992-10-02,537200,35,0.671,0.372,0.596,0.0101,0.13,-10.711,0.0508,80.795,4,2021-03-25
+18,To Each His Own,Now,Patrice Rushen,1984,254400,51,0.361,0.906,0.379,0.000109,0.0799,-10.103,0.143,106.566,4,2021-03-25
+19,Galaxy In Turiya,World Galaxy,Alice Coltrane,1971-01-01,594493,35,0.638,0.21,0.347,0.896,0.276,-17.616,0.0363,106.8,4,2021-03-25
+20,So Blue It's Black,Loose Grooves and Bastard Blues,Tommy Guerrero,1997-03-01,209309,40,0.791,0.657,0.674,0.781,0.141,-5.778,0.0453,171.445,4,2021-03-25
+21,Aloula,Maarifti Feek,Fairuz,1995,278933,40,0.856,0.539,0.353,0.0294,0.0938,-14.049,0.0792,77.656,4,2021-03-25
+22,Sometimes I Cry,Layers,Les McCann,1993-07-16,322080,40,0.25,0.481,0.259,0.798,0.0957,-15.444,0.0322,135.941,4,2021-03-25
+23,Serious Drug,Cookie Dough,Wildcookie,2011-02-22,175586,35,0.674,0.79,0.519,0.032,0.0885,-7.746,0.0684,150.047,4,2021-03-25
+24,Love for the Sake of Love,"Discomania: Hits Dance 70-80, Vol. 6",Various Artists,2014-07-01,267440,46,0.00798,0.792,0.582,0.902,0.04,-12.452,0.0965,94.157,4,2021-03-25
+25,Tudo Que Voce Podia Ser,Quarteto Em Cy,Quarteto Em Cy,1972-03-01,161106,41,0.569,0.533,0.65,0.000222,0.67,-8.53,0.0662,102.814,4,2021-03-25
+26,Capricorn,Faces in Reflection,George Duke,1974,305962,34,0.486,0.68,0.166,0.822,0.211,-19.703,0.0534,134.23,4,2021-03-25
+27,TECHNOVA,FUTURE LISTENING!,TOWA TEI,1994-10-21,341973,40,0.103,0.689,0.873,0.0227,0.078,-8.492,0.0523,89.92,4,2021-03-25
+28,A Nível De...,Comissão De Frente,João Bosco,1982-01-01,220066,50,0.527,0.632,0.376,5.11e-05,0.102,-11.302,0.044,95.231,4,2021-03-25
+29,In The Rain,Be What You Wanna Be,Ernest Ranglin,2010-06-22,211280,45,0.418,0.637,0.531,0.799,0.597,-9.876,0.0551,144.492,4,2021-03-25
