@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,Messages from the Stars,"Past, Present & Future",The Rah Band,1985,460760,57,0.309,0.717,0.557,0.0529,0.0833,-11.359,0.0332,105.672,4,2022-04-04
+1,Anchi Bale Game,Sons of Ethiopia,Admas,2020-07-27,314866,43,0.213,0.551,0.648,0.00029,0.116,-9.776,0.0435,118.501,4,2022-04-04
+2,Lost in A Lonely World,The Best of the Ethics,The Ethics,2003-01-01,154866,44,0.92,0.504,0.116,0.0706,0.103,-11.122,0.0351,105.175,4,2022-04-04
+3,Sky Islands,Sky Islands,Caldera,1977-04-28,371626,37,0.0222,0.519,0.893,0.781,0.0595,-8.839,0.0413,98.26,4,2022-04-04
+4,We Have Love,Free Your Mind,Amnesty,2007-02-20,272733,41,0.121,0.444,0.26,0.00294,0.258,-9.478,0.0288,121.066,4,2022-04-04
+5,Rigor Mortis,Look-Ka Py Py,The Meters,1970,156493,38,0.0775,0.599,0.472,0.773,0.0713,-14.526,0.234,157.353,3,2022-04-04
+6,IZ-US,Come To Daddy,Aphex Twin,1997-10-06,177266,55,0.0398,0.581,0.459,0.881,0.151,-14.519,0.0314,119.042,4,2022-04-04
+7,Prelude,Begin,The Millennium,1968,78320,39,0.548,0.481,0.818,0.539,0.097,-11.333,0.0353,89.323,4,2022-04-04
+8,"Music for Eels (from ""Inner Space"")",Inner Space: The Lost Film Music of Sven Libaek,Sven Libaek,2006-09-09,143693,35,0.837,0.496,0.327,0.569,0.111,-16.785,0.0319,91.693,4,2022-04-04
+9,Hot Coffee,The Catastrophist,Tortoise,2016-01-06,233866,13,0.0831,0.667,0.546,0.81,0.175,-10.991,0.0347,93.992,4,2022-04-04
+10,Spiritual Eternal,Eternity,Alice Coltrane,1976,176986,38,0.92,0.175,0.35,0.755,0.155,-9.744,0.0287,95.204,4,2022-04-04
+11,Yesterday Princess,Stanley Clarke,Stanley Clarke,1974,101280,37,0.741,0.382,0.117,0.00259,0.354,-24.297,0.0362,146.501,4,2022-04-04
+12,Whatsapp,Sen Am,Duval Timothy,2017-10-27,161366,38,0.883,0.58,0.0871,0.0,0.0919,-15.594,0.163,95.23,4,2022-04-04
+13,Check up Your Head,Mogadisco - Dancing Mogadishu (Somalia 1972 - 1991) [Analog Africa No.29],Various Artists,2019-12-13,350933,36,0.00343,0.901,0.476,3.5e-05,0.0888,-11.018,0.0391,111.939,4,2022-04-04
+14,A Fan's Mail (Tron Song Suite II),Drunk,Thundercat,2017-02-24,158938,54,0.819,0.494,0.657,0.419,0.113,-13.345,0.0927,191.468,4,2022-04-04
+15,Benzaiten - God of Music & Water,Benzaiten,Osamu Kitajima,1974-07-30,215869,39,0.0638,0.724,0.585,0.328,0.24,-10.901,0.0634,110.861,4,2022-04-04
+16,I've Got Some Happiness,"A Self-Taught, Decathlon, Hard Rock Musician!",Leland,2016-04-08,222480,42,0.143,0.441,0.746,0.00124,0.151,-10.943,0.0475,151.084,4,2022-04-04
+17,Cascavel,Viralata,Antonio Adolfo,2010-11-17,176426,37,0.793,0.54,0.685,0.932,0.167,-10.931,0.0437,179.187,4,2022-04-04
+18,Katmandou 8,Les chemins de Katmandou (Epaves de la bande originale du film),Jean-Claude Vannier,2015-10-30,281382,35,0.0101,0.342,0.679,0.0157,0.291,-8.989,0.0302,164.986,4,2022-04-04
+19,Living in America,7,SAULT,2019-09-27,201188,41,0.0186,0.789,0.496,0.21,0.107,-5.345,0.0539,81.118,4,2022-04-04
+20,You Ain't Takin' My Man,To Feel Embraced,SPARKLE DIVISION,2020-07-24,254306,42,0.243,0.501,0.549,0.893,0.109,-8.37,0.0561,154.302,4,2022-04-04
+21,Sekoilu seestyy - The Madness Subsides,Harakka Bialoipokku,Pekka Pohjola,1974-01-01,257120,37,0.913,0.505,0.193,0.792,0.0909,-18.099,0.0448,78.302,4,2022-04-04
+22,Super Rich Kids,Composite,Sly5thAve,2017-06-02,285951,35,0.554,0.594,0.629,0.932,0.0768,-7.126,0.0309,110.978,4,2022-04-04
+23,World's end Rhapsody,Modal Soul,Nujabes,2005-11-11,341200,54,0.205,0.745,0.731,0.678,0.103,-8.859,0.0949,121.52,4,2022-04-04
+24,The Flower Called Nowhere,Dots And Loops,Stereolab,1997-09-22,295013,47,0.669,0.525,0.634,0.0118,0.199,-9.952,0.0258,105.701,3,2022-04-04
+25,Djatasoun,Siftorde,Tidiane Thiam,2020-05-15,203141,44,0.939,0.238,0.344,0.913,0.0767,-13.005,0.0388,79.646,4,2022-04-04
+26,And That's Saying A Lot - Remastered Version,The Complete Blue Horizon Sessions,Christine Perfect,2008-02-15,177680,23,0.364,0.668,0.265,0.273,0.0662,-20.54,0.0764,166.894,4,2022-04-04
+27,Peace of Mind,Organic Dream,Wendell Harrison,1981,439000,35,0.818,0.542,0.944,0.059,0.381,-3.79,0.165,112.165,4,2022-04-04
+28,KIEFER NO MELODY,Music for Saxofone & Bass Guitar,Sam Gendel,2018-06-15,245393,39,0.822,0.67,0.409,0.374,0.767,-13.312,0.319,88.571,4,2022-04-04
+29,Yenne,Young Jazz Giants,Young Jazz Giants,2004-05-28,230693,40,0.164,0.42,0.633,0.103,0.0863,-7.648,0.0782,151.503,4,2022-04-04

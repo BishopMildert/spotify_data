@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,Electrocuted,Today,Babe Rainbow,2019-09-20,542549,37,0.259,0.695,0.67,0.838,0.144,-10.983,0.0368,105.658,4,2021-10-25
+1,Minlbelesh,Wede Harer Guzo,Hailu Mergia,2016-06-17,357906,38,0.00872,0.439,0.659,0.397,0.319,-11.42,0.0443,101.454,4,2021-10-25
+2,Eden's Cove,Eden's Island,Eden Ahbez,1960,164533,38,0.856,0.451,0.32,3.56e-06,0.279,-16.976,0.0308,110.776,4,2021-10-25
+3,Watch Your Life,Itadi,Itadi,2013-05-03,370469,35,0.213,0.629,0.734,0.175,0.113,-10.326,0.0467,88.093,4,2021-10-25
+4,Go Go Round This World!,1991-1994 ―singles & more―,Fishmans,1999,216800,28,0.122,0.62,0.761,0.000235,0.269,-10.308,0.0973,90.955,4,2021-10-25
+5,Still Steeve,Sauropoda,L'éclair,2019-05-24,194593,39,0.592,0.77,0.379,0.906,0.148,-12.669,0.0603,94.089,4,2021-10-25
+6,Program,Silver Apples,Silver Apples,1968-06-01,245400,38,0.201,0.57,0.751,0.000129,0.167,-9.19,0.0977,128.731,4,2021-10-25
+7,Saudade,Little Electric Chicken Heart,Ana Frango Elétrico,2019-09-12,220451,38,0.293,0.523,0.625,0.225,0.102,-8.99,0.0414,88.111,4,2021-10-25
+8,Cha tatch ka,La formule du baron,Bernard Estardy,1969-01-01,147226,25,0.741,0.611,0.945,0.837,0.0753,-9.11,0.0639,110.857,4,2021-10-25
+9,She Loved Me,Kahunastyle,Flamingosis,2016-02-16,204255,40,0.24,0.777,0.596,0.612,0.114,-14.698,0.0941,94.029,4,2021-10-25
+10,Scrabble,Karen P ...broad casting,Various Artists,2008-06-02,252866,27,0.475,0.476,0.763,0.413,0.147,-6.336,0.0701,100.766,4,2021-10-25
+11,Trouble In The Streets,Requiem,Goat,2016-10-07,260306,18,0.627,0.395,0.979,0.0132,0.191,-0.922,0.0651,106.51,4,2021-10-25
+12,Incantation,The Electric Lucifer,Bruce Haack,1970,197240,31,0.798,0.551,0.711,0.233,0.21,-8.127,0.0313,79.884,4,2021-10-25
+13,Fleur tropicale,African Electronic Music (1975-1982),Francis Bebey,2012-03-01,234078,37,0.593,0.618,0.61,0.749,0.188,-7.059,0.0295,75.894,4,2021-10-25
+14,Riding for a Fall,Memories By The Score Vol. 2,John Holt,2015-12-11,233626,41,0.216,0.78,0.69,0.0317,0.206,-5.482,0.0951,140.489,4,2021-10-25
+15,Lembur Kuring,Yanti Bersaudara,Yanti Bersaudara,1971,180185,26,0.107,0.407,0.558,0.00102,0.372,-13.268,0.115,141.612,4,2021-10-25
+16,Song for Aretha,Soul Is...Pretty Purdie,"Bernard ""Pretty"" Purdie",2014-09-29,452306,35,0.202,0.358,0.573,0.000423,0.112,-9.951,0.065,158.644,4,2021-10-25
+17,Mr. Hood at Piocallee Jewelry / Crackpot,Mr. Hood,KMD,1991,169333,36,0.367,0.854,0.43,0.0,0.61,-16.207,0.358,107.57,4,2021-10-25
+18,Take Life Easy,One Understanding,Christy Essien,2018-05-25,255779,38,0.611,0.821,0.677,0.156,0.0956,-10.765,0.145,103.035,4,2021-10-25
+19,The Girl Who Was Frightened of Ashtrays,The Abtomatic Miesterzinger Mambo Chic,Charlie Megira,2001-01-01,230253,36,0.991,0.722,0.132,0.933,0.139,-19.381,0.0356,116.63,4,2021-10-25
+20,I'm Back For More,We Need Each Other,Leo's Sunshipp,1978,305293,31,0.34,0.395,0.671,0.0114,0.0784,-10.844,0.0459,203.082,4,2021-10-25
+21,Yanimda Kal,Mantra Moderne,Kit Sebastian,2019-07-19,282663,33,0.00129,0.546,0.738,0.761,0.0721,-6.171,0.0296,90.176,4,2021-10-25
+22,You Never Come Closer,Did You Give The World Some Love Today Baby,Doris,1970,255863,32,0.0226,0.406,0.572,0.095,0.39,-10.231,0.0305,105.624,4,2021-10-25
+23,Brother (Remastered),Emilio Santiago (Remastered),Emílio Santiago,1975-05-03,169360,38,0.669,0.736,0.606,1.5e-05,0.0675,-8.608,0.0378,130.949,4,2021-10-25
+24,Afro Beat Blues,The Chisa Years 1965-1975 (Rare and Unreleased),Hugh Masekela,2006-03-13,408106,41,0.434,0.776,0.828,0.289,0.143,-7.076,0.0692,96.501,4,2021-10-25
+25,Ruido de Magia,El Jardin de los Presentes,Invisible,1976-05-27,275093,36,0.281,0.452,0.678,0.00467,0.153,-7.32,0.0305,79.28,4,2021-10-25
+26,Keep Your Faith to the Sky,Keep Your Faith to the Sky,Willie Scott & The Birmingham Spirituals,2019-07-09,309493,36,0.717,0.644,0.846,0.00125,0.101,-3.667,0.0271,94.58,4,2021-10-25
+27,I Am The Black Gold Of The Sun - Remastered,"Hey, Love",Rotary Connection,1971-08-01,344560,49,0.59,0.503,0.58,0.0995,0.0698,-16.479,0.0806,89.433,4,2021-10-25
+28,Samari Da Yan Matan,Unreleased Tapes 1981-1984,Mamman Sani,2015-11-12,293000,30,0.963,0.282,0.559,0.923,0.129,-7.043,0.0364,208.261,4,2021-10-25
+29,Third Rock,Chrome Children Vol. 1,Various Artists,2006-10-03,241920,35,0.636,0.658,0.613,2.15e-05,0.0594,-7.004,0.0558,101.834,4,2021-10-25

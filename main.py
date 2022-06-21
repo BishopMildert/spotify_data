@@ -78,4 +78,4 @@ today_date = str(datetime.date.today())
 df[['playlist_date']] = today_date
 
 # saving playlist data to DF
-df.to_csv(f'data/{today_date}-playlist.csv')
+df.to_csv(f'spotify_data/data/{today_date}_playlist.csv')

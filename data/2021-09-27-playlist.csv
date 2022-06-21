@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,Is That Enough,"Here, My Dear",Marvin Gaye,1978-12-15,467866,42,0.0306,0.564,0.573,0.00577,0.0587,-11.365,0.0326,137.778,4,2021-09-27
+1,Can I Help You?,Free Your Mind,Amnesty,2007-02-20,461200,33,0.603,0.379,0.756,0.181,0.0561,-6.712,0.055,100.556,4,2021-09-27
+2,Lost in A Lonely World,The Best of the Ethics,The Ethics,2003-01-01,154866,38,0.92,0.504,0.116,0.0706,0.103,-11.122,0.0351,105.175,4,2021-09-27
+3,It's Gonna Be Lonely,Prince,Prince,1979-10-19,327626,41,0.409,0.705,0.342,0.00185,0.148,-13.209,0.037,79.904,4,2021-09-27
+4,In The Rain,Be What You Wanna Be,Ernest Ranglin,2010-06-22,211280,43,0.418,0.637,0.531,0.799,0.597,-9.876,0.0551,144.492,4,2021-09-27
+5,Loving You Is on My Mind,Rejuvenation,The Meters,1974,199840,38,0.222,0.798,0.602,0.784,0.296,-12.921,0.0379,120.522,4,2021-09-27
+6,No I Won't,Evans Pyramid (1978 - 1994),Evans Pyramid,2012-05-08,316453,35,0.151,0.755,0.794,0.0274,0.37,-6.348,0.0409,128.516,4,2021-09-27
+7,Like a Ship,Like a Ship (Without a Sail),Pastor T.L. Barrett and the Youth for Christ Choir,1971-01-01,278680,44,0.0552,0.404,0.839,0.0,0.139,-8.136,0.0333,169.544,4,2021-09-27
+8,Slow Hot Wind,Portrait of a Gemini,Penny Goodwin,2016-11-11,287133,36,0.951,0.347,0.378,0.0986,0.0765,-12.468,0.0362,83.841,4,2021-09-27
+9,Space Talk,The Devil is Loose,Asha Puthli,1976-01-01,337320,38,0.142,0.638,0.432,0.019,0.213,-17.345,0.0754,98.932,4,2021-09-27
+10,"Chorou, Chorou",Quem É Quem,João Donato,1973-01-08,160600,37,0.442,0.698,0.529,0.49,0.0907,-12.465,0.0634,131.552,4,2021-09-27
+11,My Time Ain't Long,Future Blues (Expanded Edition),Canned Heat,1970-08-03,228360,37,0.119,0.53,0.676,0.0256,0.191,-12.227,0.0309,94.191,4,2021-09-27
+12,TECHNOVA,FUTURE LISTENING!,TOWA TEI,1994-10-21,341973,40,0.103,0.689,0.873,0.0227,0.078,-8.492,0.0523,89.92,4,2021-09-27
+13,Them Changes,Drunk,Thundercat,2017-02-24,188453,70,0.54,0.657,0.562,0.00143,0.101,-8.6,0.0601,81.657,4,2021-09-27
+14,Lament for the Sky,Freedom to Talk,Acidslop,2019-05-09,233500,40,0.329,0.913,0.441,0.0822,0.105,-8.609,0.123,103.18,4,2021-09-27
+15,Heavy Duty Dub,Harry Mudie Meet King Tubby In Dub Confrence Volume One,Harry Mudie,2015-10-02,179533,30,0.00495,0.697,0.289,0.901,0.0954,-13.957,0.267,83.609,4,2021-09-27
+16,Be Thankful for What You've Got - David Todd Remix,Be Thankful for What You Got,William DeVaughn,1980-01-01,414533,49,0.000478,0.799,0.254,0.0227,0.15,-20.281,0.112,106.939,4,2021-09-27
+17,Crawshay,Second Time Round,Cymande,2013-08-09,260160,44,0.107,0.851,0.606,0.293,0.08,-9.982,0.0412,119.234,4,2021-09-27
+18,Eyes of Love,Eyes of Love,The Edge Of Daybreak,2015-10-16,253226,27,0.443,0.692,0.628,1.12e-05,0.189,-10.634,0.0346,119.695,4,2021-09-27
+19,Shadow's Legitimate Mix,Brothers From the Mother,Zimbabwe Legit,2005,389000,40,0.0295,0.589,0.547,0.391,0.226,-10.764,0.159,150.985,4,2021-09-27
+20,Oil Slick,In Praise Of Shadows,Puma Blue,2021-02-05,350194,37,0.016,0.719,0.571,0.363,0.0416,-9.274,0.0513,135.988,4,2021-09-27
+21,You Need Love,Conflict,Ebo Taylor,1980,429133,38,0.547,0.724,0.828,0.342,0.0453,-7.256,0.0679,100.56,4,2021-09-27
+22,Lookin Back from the Future,Little Dominiques Nosebleed,The Koreatown Oddity,2020-06-19,176033,29,0.56,0.468,0.627,0.0,0.296,-6.742,0.0694,85.851,4,2021-09-27
+23,Quicksand,Beauty: A Journey Through Jeremy Underground's Collection,Various Artists,2016-09-09,304746,33,0.827,0.552,0.529,0.00326,0.103,-6.671,0.0308,120.254,4,2021-09-27
+24,Momo,Darlène,Hubert Lenoir,2019-04-12,326866,22,0.897,0.537,0.544,0.899,0.126,-9.087,0.0315,92.896,4,2021-09-27
+25,Tezeta (Nostalgia),"Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",Mulatu Astatke,1998-10-06,376640,55,0.954,0.547,0.356,0.917,0.0891,-10.199,0.0366,81.032,3,2021-09-27
+26,Underwater Boy,Shiver,Virna Lindt,1984-04-28,378826,36,0.126,0.349,0.578,0.851,0.0999,-9.982,0.0345,79.534,4,2021-09-27
+27,Cirrus,Kpm 1000 Series: Clouds,Graham De Wilde,1981-01-01,379630,27,0.138,0.453,0.681,0.53,0.279,-9.273,0.048,108.738,4,2021-09-27
+28,帰り道の本,ロックンロールのはじまりは,Emerson Kitamura,2016-12-14,260720,36,0.0079,0.869,0.255,0.87,0.194,-12.495,0.303,120.011,4,2021-09-27
+29,Loving You Aint Complicated,Love Spectrum,Whoarei,2020-04-24,133066,41,0.0264,0.726,0.37,0.801,0.0851,-12.224,0.0547,73.07,4,2021-09-27

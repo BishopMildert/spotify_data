@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,プレゼント,サラヴァ!,高橋ユキヒロ,1978,287386,22,0.542,0.652,0.602,0.143,0.122,-8.815,0.0342,150.691,4,2022-01-03
+1,Self: Love,Turn to Clear View,Joe Armon-Jones,2019-09-20,373466,35,0.619,0.317,0.783,0.257,0.122,-10.35,0.202,87.274,4,2022-01-03
+2,Cuff Link - Remastered 1993,London Town (Expanded Edition),Wings,1978-03-31,118840,36,0.106,0.584,0.43,0.788,0.101,-14.635,0.0333,80.741,4,2022-01-03
+3,I Can't Do Without You,The Soul Of George Jackson,George Jackson,2020-03-13,140026,44,0.136,0.557,0.606,0.0,0.245,-6.884,0.064,90.202,4,2022-01-03
+4,Dreamflower,Tarika Blue,Tarika Blue,1977,255533,48,0.77,0.551,0.252,0.719,0.0834,-17.767,0.0293,134.878,4,2022-01-03
+5,Chillin' Wiv Da Man Dem,Tongue N' Cheek (Dirtee Deluxe Edition),Dizzee Rascal,2011-01-01,279613,50,0.233,0.696,0.84,8.49e-06,0.135,-3.773,0.0355,95.2,4,2022-01-03
+6,Cosurmyne,For Ever,Jungle,2018-09-14,219984,51,0.0119,0.555,0.718,0.133,0.339,-8.405,0.0533,149.884,4,2022-01-03
+7,A hora é essa,Dose Dupla Célia,Celia,2011-08-12,183533,34,0.633,0.761,0.638,0.00184,0.141,-10.197,0.127,113.437,4,2022-01-03
+8,Human Race,Human Race b/w Grey Boy,Human Race,1971-01-01,185929,38,0.592,0.731,0.542,0.434,0.105,-9.408,0.0416,99.974,4,2022-01-03
+9,No Condition Is Permanent,This Is Marijata,Marijata,1976,421173,40,0.243,0.688,0.597,0.00286,0.08,-14.0,0.106,105.675,4,2022-01-03
+10,Train Love,Transportation,Your Old Droog,2019-06-14,242320,56,0.102,0.662,0.882,0.0,0.688,-5.717,0.176,95.029,4,2022-01-03
+11,Aeroplane (Reprise),You Can Fly On My Aeroplane,Wee,2008-08-26,167533,40,0.973,0.35,0.424,0.871,0.0812,-11.726,0.0504,157.604,3,2022-01-03
+12,A Nível De...,Comissão De Frente,João Bosco,1982-01-01,220066,50,0.527,0.632,0.376,5.11e-05,0.102,-11.302,0.044,95.231,4,2022-01-03
+13,Fried Neck Bones and Some Home Fries,Santana (Legacy Edition),Santana,1969,461026,31,0.289,0.592,0.652,0.757,0.0741,-10.923,0.0381,131.176,4,2022-01-03
+14,Siesta / Wake Up / That's What I Said,Life & Times,Billy Cobham,1976,237946,35,0.777,0.362,0.22,0.561,0.2,-17.791,0.0297,80.085,4,2022-01-03
+15,The Ghost (Marcus Garvey),Garvey’s Ghost,Burning Spear,1976-04-23,236080,43,0.00257,0.712,0.411,0.855,0.0702,-12.274,0.115,93.237,4,2022-01-03
+16,Yedin Beni,Dünden Bugüne,Ersen ve Dadaşlar,1976,287078,27,0.0514,0.615,0.671,0.0166,0.285,-12.611,0.0499,124.614,4,2022-01-03
+17,Hottest Day in New York,Home Is Where We Start From,Star Slinger,2018-11-20,189600,41,0.335,0.714,0.436,0.0266,0.108,-14.217,0.0754,99.995,4,2022-01-03
+18,Two Worlds Apart,Sometimes I Might Be Introvert,Little Simz,2021-09-03,178066,62,0.611,0.455,0.636,0.0,0.145,-7.179,0.127,140.708,4,2022-01-03
+19,Landlord Elijah,The Pocket Watch,Pan Amsterdam,2018-04-27,153921,35,0.477,0.673,0.57,0.0,0.397,-8.373,0.256,130.875,4,2022-01-03
+20,Put the Word Out,Central Heating (Expanded Edition),Heatwave,1978-03-31,396093,30,0.0525,0.554,0.643,6.65e-05,0.125,-11.834,0.0502,124.896,4,2022-01-03
+21,O Baixo do Kassin (feat. Kassin),Tam Tam Tam Reimagined,Sonzeira,2016-07-22,207591,35,0.0177,0.703,0.694,0.87,0.166,-10.653,0.0564,129.001,4,2022-01-03
+22,'A Voce 'E Napule,Nuova Napoli,Nu Genea,2018-05-01,210241,37,0.806,0.847,0.59,0.279,0.11,-8.421,0.0679,148.868,4,2022-01-03
+23,The Answer - Outtake - 1970,Share The Land,The Guess Who,1970,247133,39,0.383,0.565,0.656,1.56e-05,0.0545,-7.198,0.0314,99.758,4,2022-01-03
+24,Ingranaggi pesanti,Lavoro e tempo libero,Giuliano Sorgini,1980-10-24,78066,32,0.688,0.522,0.795,0.118,0.136,-13.777,0.0853,86.948,4,2022-01-03
+25,How Can I?,How Can I?,Mark A Mitchell,1983-07-10,308323,25,0.386,0.562,0.604,0.0375,0.088,-11.349,0.0296,145.295,4,2022-01-03
+26,Easter Sunday,Dyn-O-Mite,Zelooperz,2019-09-16,122737,56,0.0774,0.38,0.723,2.52e-06,0.92,-9.608,0.34,143.285,4,2022-01-03
+27,There Comes A Time,Spectrum: The Anthology,Tony Williams,1997-01-01,361426,19,0.59,0.393,0.632,0.0294,0.23,-10.385,0.0379,111.938,5,2022-01-03
+28,Smiling Faces,Forge Your Own Chains: Heavy Psychedelic Ballads And Dirges 1968-1974,Top Drawer,2009-11-17,382652,37,0.37,0.798,0.642,4.24e-05,0.147,-6.772,0.0591,101.297,4,2022-01-03
+29,Carolina,Premium,Sam Evian,2016-09-30,242659,33,0.586,0.723,0.379,0.647,0.0945,-8.22,0.0418,75.0,4,2022-01-03

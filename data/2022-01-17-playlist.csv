@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,Be Thankful For What You Got,Reel To Real,Love,1974,273400,52,0.63,0.678,0.592,0.0436,0.0543,-11.678,0.199,99.293,4,2022-01-17
+1,The Loser,Psychedelic Train,Derrick Harriott,1970-07-01,217013,52,0.321,0.571,0.371,0.00022,0.0583,-9.799,0.0348,176.814,4,2022-01-17
+2,Loving You,24 Hours in a Disco 1978-82,Kiki Gyan,2012-12-03,568546,41,0.012,0.522,0.867,0.0876,0.0469,-10.142,0.0543,127.52,4,2022-01-17
+3,Aos Barões,Lô Borges,Lô Borges,1972-01-01,151906,39,0.333,0.537,0.444,0.00784,0.116,-11.627,0.0252,100.126,4,2022-01-17
+4,Didn't I - Dave Allison Rework,Didn't I,Darondo,2014-05-13,328000,55,0.00827,0.539,0.704,0.132,0.133,-6.73,0.053,186.033,4,2022-01-17
+5,Dadje Von O Von Non,Legends of Benin,Various Artists,2005,234986,16,0.0194,0.597,0.658,2.32e-05,0.0615,-9.176,0.0734,160.186,4,2022-01-17
+6,Shape Of Things To Come,The Shape Of Things To Come,George Benson,1968,314840,34,0.573,0.712,0.572,0.804,0.165,-9.294,0.038,81.652,4,2022-01-17
+7,Patience,Eccentric Soul: Omnibus,Various Artists,2012-10-31,279970,33,0.818,0.633,0.832,0.881,0.221,-7.839,0.0517,121.631,4,2022-01-17
+8,Sour Soul,Sour Soul,Alain Goraguer,2021-04-09,173868,36,0.013,0.562,0.543,0.717,0.138,-12.544,0.0344,145.534,4,2022-01-17
+9,Pulp,Basement Seance,Dirty Art Club,2017-08-04,134841,41,0.555,0.776,0.629,0.728,0.117,-10.027,0.0803,113.003,4,2022-01-17
+10,Drug Song,"Volume 1 (3 albums: Super America, Soul Impressions, Pop Impressions)",Janko Nilovic,2014-12-15,191959,44,0.00796,0.465,0.713,0.71,0.112,-7.493,0.0603,88.344,4,2022-01-17
+11,Incantation,Free Ride,Dizzy Gillespie,1977-01-01,400106,35,0.357,0.609,0.52,0.883,0.123,-12.309,0.0391,163.92,4,2022-01-17
+12,Chura Liya Hai Tum Ne - Hawain Guitar,Charanjit Singh - Instrumental,Charanjit Singh,1975-01-01,280280,3,0.569,0.463,0.486,0.471,0.0639,-10.241,0.0309,75.568,4,2022-01-17
+13,Telantena zare,"Ethiopiques, Vol. 9: Alèmayèhu Eshèté 1969-1974",Alemayehu Eshete,2004-07-04,226893,38,0.754,0.658,0.683,0.00117,0.136,-6.813,0.0753,83.114,4,2022-01-17
+14,New York Times - Remastered 2002,Satin Doll,Bobbi Humphrey,2002-01-01,413893,46,0.0787,0.344,0.919,0.169,0.278,-8.317,0.0984,97.467,4,2022-01-17
+15,Sunshine - Demo,Virgin Ubiquity II,Roy Ayers,2018-12-01,300280,37,0.0829,0.436,0.625,0.0,0.0854,-5.258,0.1,76.949,4,2022-01-17
+16,Ta Lassa,Ta Lassa,International Soleil Band,2016-05-13,420330,36,0.02,0.688,0.807,0.0234,0.109,-8.628,0.0442,117.652,4,2022-01-17
+17,Glitter of the City (Song By Tahira),The Glitter of the City,Ron Everett,2021-06-04,321201,36,0.326,0.689,0.694,0.0115,0.199,-14.629,0.0522,156.45,4,2022-01-17
+18,On The Way - Remastered 2011,McCartney II (Special Edition),Paul McCartney,1980-05-16,219066,42,0.247,0.606,0.417,0.0559,0.37,-9.112,0.0318,86.78,4,2022-01-17
+19,Candylane,A Sufi And A Killer,Gonjasufi,2010-03-08,127133,37,0.0185,0.684,0.751,0.0138,0.294,-6.902,0.134,96.522,4,2022-01-17
+20,I'm Corrupt,Wise Guy,Kid Creole And The Coconuts,1982,252546,11,0.264,0.691,0.798,0.748,0.0529,-10.418,0.0356,111.942,4,2022-01-17
+21,Falsa Folha De Rosto,Manual,Boogarins,2015-10-30,309600,38,0.391,0.355,0.428,0.0326,0.121,-11.1,0.0362,114.9,4,2022-01-17
+22,Kyenkyen Bi Adi M'awu,Afro-Rock Vol. 1,Various Artists,1974,414520,36,0.0242,0.506,0.673,0.0267,0.226,-12.441,0.0502,101.175,4,2022-01-17
+23,Shikako Maru Ten,Shikako Maru Ten,CAN,2017-05-31,198036,25,0.0357,0.766,0.56,0.895,0.111,-12.426,0.0518,159.197,1,2022-01-17
+24,Je Ne Bois Pas Beaucoup,Sofrito: Tropical Discotheque,Sofrito,1980,536586,36,0.119,0.577,0.794,0.127,0.312,-7.997,0.0555,123.232,4,2022-01-17
+25,Sempre Existe Alguém,Série Samba Soul,Trio Ternura,1971-03-30,134533,29,0.698,0.596,0.567,0.0619,0.0721,-8.09,0.0484,71.992,4,2022-01-17
+26,Asaw Fofor,African Scream Contest 2,Various Artists,2018-05-18,175440,23,0.353,0.77,0.326,0.00804,0.102,-10.56,0.0628,144.288,4,2022-01-17
+27,Lihue,Lihue,Nohelani Cypriano,2014-12-22,200991,41,0.571,0.596,0.558,0.0587,0.105,-13.508,0.0576,93.706,4,2022-01-17
+28,Shape Your Mind to Die,Blues and the Soulful Truth,Leon Thomas,2014-04-28,320640,37,0.0043,0.485,0.545,0.0739,0.114,-13.602,0.0644,100.076,4,2022-01-17
+29,Paulette,Objectif perfection,Balla Et Ses Balladins,1980-01-01,462000,46,0.656,0.785,0.437,0.00413,0.132,-14.317,0.0403,132.448,4,2022-01-17

@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,Textures,Mr. Hands,Herbie Hancock,1980-10-01,398040,36,0.457,0.556,0.195,0.959,0.0726,-21.441,0.0355,84.717,4,2022-04-25
+1,Sudden Death,Sudden Death,Quelle Chris,2020-02-04,221283,47,0.383,0.608,0.87,0.847,0.067,-4.344,0.0287,157.118,4,2022-04-25
+2,window,Deflowered,Flowervillain,2019-09-30,149250,36,0.916,0.699,0.295,0.405,0.106,-21.983,0.325,89.717,4,2022-04-25
+3,Jo,Lambs Anger,Mr. Oizo,2008-11-17,136786,43,0.0191,0.798,0.866,0.415,0.703,-4.532,0.153,119.546,4,2022-04-25
+4,Endomorph (Dedicated to My Parents) - Remastered,Secrets (Remastered),Allan Holdsworth,1989-04-07,258910,30,0.745,0.154,0.251,0.422,0.12,-13.106,0.0332,134.955,3,2022-04-25
+5,Worst Ever Contender,Rezzett LP,Rezzett,2018-02-23,346836,39,0.314,0.335,0.794,0.924,0.102,-12.506,0.0462,152.301,4,2022-04-25
+6,Soulseek,Hotep,Blue Iverson,2017-04-11,259019,37,0.0124,0.592,0.752,0.606,0.142,-8.874,0.0299,94.069,4,2022-04-25
+7,Guided Beam,Scientist Meets The Space Invaders,Scientist,1981-01-01,196400,34,0.000638,0.757,0.451,0.00731,0.121,-12.216,0.141,144.22,4,2022-04-25
+8,Pillow Talk,BA3,Yung Bae,2016-08-04,221634,36,0.131,0.643,0.83,0.000456,0.22,-7.572,0.283,90.988,4,2022-04-25
+9,Saat Alfarah,"Jazz, Jazz, Jazz (Habibi Funk 009)",The Scorpions,2018-11-09,286500,38,0.145,0.531,0.753,3.04e-06,0.0608,-6.128,0.0537,88.743,4,2022-04-25
+10,タイムマシーン・ラヴ,TOKYO SNIPER,流線形,2006,266680,44,0.418,0.681,0.611,0.0281,0.102,-9.102,0.0284,125.02,4,2022-04-25
+11,Dreamcatcher,Baker's Dozen: Ohbliv,ohbliv,2016-05-06,212792,31,0.0262,0.459,0.722,0.816,0.307,-12.274,0.0442,165.423,4,2022-04-25
+12,Xeno Arcadia,Hylics 2 Original Soundtrack,Mason Lindroth,2020-07-22,288000,39,0.58,0.69,0.329,0.942,0.0818,-16.76,0.0805,95.061,4,2022-04-25
+13,Hit,Always Now,Section 25,1981,178906,33,0.0411,0.561,0.468,0.521,0.0562,-10.974,0.0366,122.559,4,2022-04-25
+14,Master,Rules,Alex G,2012-01-15,116440,34,6.07e-05,0.362,0.803,0.931,0.0558,-4.159,0.0671,158.858,4,2022-04-25
+15,Fanfare for naran ratan,Trees etc.,naran ratan,2015-05-22,81000,46,0.813,0.298,0.108,0.825,0.255,-17.149,0.0376,140.025,4,2022-04-25
+16,Love Theme From Spartacus - Remastered,Eastern Sounds,Yusef Lateef,1961,251600,54,0.635,0.522,0.379,0.925,0.114,-14.096,0.0286,133.698,3,2022-04-25
+17,Quicksand,Beauty: A Journey Through Jeremy Underground's Collection,Various Artists,2016-09-09,304746,36,0.827,0.552,0.529,0.00326,0.103,-6.671,0.0308,120.254,4,2022-04-25
+18,Love Galaxy,Love Galaxy Remixes,Paul Epworth,2020-05-08,306364,44,0.00855,0.565,0.676,0.00269,0.564,-8.143,0.151,87.03,4,2022-04-25
+19,THE FIFTH DAY PART 1,4:20,MIKE DEAN,2020-04-20,168263,37,0.31,0.205,0.197,0.917,0.113,-18.442,0.0406,125.377,4,2022-04-25
+20,I Love Sloane,Hangin' At The Beach,Delroy Edwards,2016-08-05,76004,39,0.802,0.539,0.506,0.967,0.109,-10.189,0.0702,156.732,4,2022-04-25
+21,100000 - Unfinished,Leak 04-13 (Bait Ones),Jai Paul,2013-04-13,175266,39,0.303,0.531,0.665,0.0,0.187,-5.743,0.162,62.375,3,2022-04-25
+22,Ozan Koukle - Remastered,Afro Funk Explosion,Lafayette Afro Rock Band,2022-04-07,348173,30,0.52,0.566,0.909,0.825,0.0877,-8.9,0.0501,152.58,4,2022-04-25
+23,Gooey Gangsta (feat. Biz Markie),"Adventure Time, Vol.1 (Original Soundtrack)",Adventure Time,2019-05-01,157884,35,0.0556,0.51,0.599,0.866,0.334,-13.99,0.0675,88.258,4,2022-04-25
+24,Inhaler,"People, Places & Things",Slide Five,1997-04-08,320560,29,0.061,0.621,0.556,0.876,0.0775,-17.418,0.0662,110.093,3,2022-04-25
+25,Tears of a Tiger,Tears of a Tiger,Big Body Bes,2021-08-25,140000,41,0.707,0.603,0.629,0.0,0.181,-5.789,0.125,82.078,4,2022-04-25
+26,DO IT,BUBBA,KAYTRANADA,2019-12-13,132360,50,0.0141,0.765,0.858,0.79,0.0934,-7.232,0.0486,111.983,4,2022-04-25
+27,When Your Heart Says Yes - Mac DeMarco Remix,When Your Heart Says Yes (Mac DeMarco Remix),Spookey Ruben,2020-05-01,210285,37,0.573,0.707,0.693,0.00686,0.0444,-8.448,0.0551,105.024,4,2022-04-25
+28,Ostavi trag,Zadnja avantura,September,1975,243709,34,0.311,0.32,0.459,0.0,0.367,-8.4,0.0368,125.97,4,2022-04-25
+29,Terms & Conditions,Let the Sun Talk,MAVI,2019-10-18,112000,34,0.885,0.424,0.326,0.000482,0.184,-17.023,0.274,146.612,4,2022-04-25

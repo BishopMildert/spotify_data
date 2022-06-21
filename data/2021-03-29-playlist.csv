@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,The Ballad of Dorothy Parker,"Sign ""O"" the Times",Prince,1987-03-30,235453,42,0.287,0.89,0.577,0.00291,0.111,-12.561,0.0709,102.855,4,2021-03-29
+1,We Have Love,Free Your Mind,Amnesty,2007-02-20,272733,35,0.121,0.444,0.26,0.00294,0.258,-9.478,0.0288,121.066,4,2021-03-29
+2,Come Live With Me Angel,I Want You (Deluxe Edition),Marvin Gaye,1976-03-16,388546,50,0.494,0.577,0.679,0.0811,0.124,-9.981,0.038,80.151,4,2021-03-29
+3,Piece of Mind,Power Of Soul,Idris Muhammad,1974,561626,35,0.0419,0.462,0.571,0.099,0.0675,-10.858,0.0327,81.826,4,2021-03-29
+4,Stormy,The Meters,The Meters,1969,220533,46,0.49,0.622,0.215,0.811,0.0982,-16.846,0.0304,77.904,4,2021-03-29
+5,Me Deixa,Quem É Quem,João Donato,1973-01-08,138866,36,0.677,0.523,0.61,0.764,0.0743,-14.789,0.0423,156.321,4,2021-03-29
+6,Never Gonna Leave You,Evans Pyramid (1978 - 1994),Evans Pyramid,2012-05-08,405253,39,0.751,0.721,0.713,0.691,0.125,-11.678,0.032,125.098,4,2021-03-29
+7,Don't You Know,Melodies,Jan Hammer Group,1977-10-17,180077,47,0.0688,0.656,0.792,0.654,0.091,-7.121,0.0478,93.804,4,2021-03-29
+8,Oboe,Keyboard King at Studio One,Jackie Mittoo,2000-01-01,578733,35,0.0229,0.668,0.58,0.842,0.108,-13.31,0.0554,160.296,4,2021-03-29
+9,A Time for Us,"Late Night Tales: Belle and Sebastian, Vol. 2",Belle & Sebastian,2012-03-26,195053,47,0.704,0.333,0.448,0.677,0.141,-14.122,0.0384,82.554,4,2021-03-29
+10,At the Hotel,Back to Mine,Fatboy Slim,2020-11-06,208533,39,0.836,0.777,0.339,1.58e-05,0.163,-12.107,0.0817,89.692,4,2021-03-29
+11,A Message Especially from God,Late Night Tales: Floating Points,Floating Points,2019-03-29,228133,32,0.739,0.679,0.265,0.0092,0.0926,-15.245,0.18,74.33,4,2021-03-29
+12,People Make the World Go Round,Good Times Skank: Joey Jay (Good Times Sound System),Various Artists,2002-08-05,198680,36,0.699,0.772,0.463,0.0328,0.154,-10.481,0.0317,89.228,1,2021-03-29
+13,Changes,Promised Heights,Cymande,2013-08-16,371400,42,0.761,0.525,0.31,0.434,0.0618,-17.489,0.0791,156.731,4,2021-03-29
+14,Alberto Balsalm,...I Care Because You Do,Aphex Twin,1995-04-24,310746,60,0.316,0.792,0.599,0.931,0.111,-13.647,0.141,93.994,4,2021-03-29
+15,Mascaram Setaba - Stereo Master,Mulatu Of Ethiopia,Mulatu Astatke,1972,167933,32,0.67,0.495,0.398,0.683,0.111,-15.992,0.0483,141.088,4,2021-03-29
+16,Crying Every Night (These Eyes),Version Galore,U-Roy,1971-01-01,151080,42,0.214,0.866,0.683,0.114,0.107,-7.897,0.232,81.384,4,2021-03-29
+17,I'll Stay,Hard Groove,The RH Factor,2003-01-01,470546,48,0.632,0.632,0.276,0.293,0.157,-13.697,0.0594,129.693,4,2021-03-29
+18,It's Time To Break Down,New Ways But Love Stays,The Supremes,1970-10,312946,39,0.515,0.359,0.651,0.000119,0.203,-9.233,0.0344,196.817,4,2021-03-29
+19,Like It Is - Remastered,The Blue Yusef Lateef,Yusef Lateef,1968,452533,47,0.829,0.314,0.117,0.883,0.106,-19.235,0.033,93.978,1,2021-03-29
+20,Love and Death,Love & Death,Ebo Taylor,2010-10-25,415090,52,0.135,0.742,0.896,0.461,0.12,-7.208,0.0501,102.451,4,2021-03-29
+21,At Last I Am Free,Nothing Can Stop Us,Robert Wyatt,1982-01-01,258333,22,0.489,0.621,0.0935,5.7e-06,0.111,-18.728,0.0292,56.662,4,2021-03-29
+22,Tonight,Coles Corner,Richard Hawley,2005-09-05,272386,43,0.966,0.249,0.201,6.22e-05,0.101,-15.344,0.0336,152.88,3,2021-03-29
+23,Blood Of An American,Blood of an American,Bobby Wright,2018-03-09,260600,40,0.953,0.39,0.122,0.271,0.111,-18.781,0.0309,146.222,4,2021-03-29
+24,Jacaranda,Jacaranda,Luiz Bonfá,1999-02-23,249208,37,0.828,0.723,0.439,0.623,0.0889,-12.387,0.0403,82.696,4,2021-03-29
+25,I Need Somebody To Love Tonight,Stars,Sylvester,1979,411346,45,0.798,0.73,0.356,0.895,0.0736,-17.845,0.0749,104.903,4,2021-03-29
+26,Be Thankful for What You've Got - David Todd Remix (Radio Edit),Be Thankful for What You Got,William DeVaughn,1980-01-01,221733,40,0.00341,0.778,0.481,0.0103,0.105,-13.136,0.0553,107.183,4,2021-03-29
+27,Trouble,Baby You Got It,Brenton Wood,1967-01-01,166493,34,0.366,0.612,0.405,9.9e-06,0.151,-10.231,0.0881,96.674,4,2021-03-29
+28,Que Bandeira,Cartão Postal,Evinha,1971-01-05,149420,40,0.756,0.755,0.537,3.22e-06,0.355,-10.679,0.0381,93.393,4,2021-03-29
+29,Spring,Foxbase Alpha,Saint Etienne,1992-01-10,223933,42,0.000746,0.593,0.539,0.0017,0.123,-14.065,0.0407,97.92,4,2021-03-29

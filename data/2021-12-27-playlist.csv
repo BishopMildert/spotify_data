@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,Flying high,Feelings,Stefano Torossi,1974,220333,35,0.0327,0.513,0.521,0.76,0.0499,-14.797,0.0338,109.235,4,2021-12-27
+1,Lotus 72 D,Lotus 72 D,Zé Roberto,1973,192965,40,0.628,0.733,0.676,0.181,0.277,-9.735,0.0771,91.389,4,2021-12-27
+2,AI AI AI AI,African Swim and Manny & Lo - Two Film Scores By John Lurie,John Lurie,1999,191226,42,0.0377,0.588,0.444,0.891,0.273,-15.917,0.0765,173.171,4,2021-12-27
+3,Paniots Nine,Paniots Nine,Joe Maneri,1998-02-21,203093,38,0.977,0.338,0.427,0.889,0.117,-14.885,0.0441,82.819,3,2021-12-27
+4,Black Night,"Music from Entertainment, A Film by Rick Alverson",Various Artists,2015-12-04,265520,42,0.847,0.262,0.2,0.00141,0.104,-12.296,0.0346,71.022,4,2021-12-27
+5,John and Mary,Word Of Mouth,Jaco Pastorius,1981,653573,36,0.693,0.439,0.444,0.0105,0.122,-13.204,0.0586,132.041,4,2021-12-27
+6,Mulberry Jam,Self Discovery For Social Survival (Original Motion Picture Soundtrack),Various Artists,2019-06-14,197306,32,0.00208,0.563,0.842,0.838,0.125,-7.959,0.0269,135.971,4,2021-12-27
+7,Don’t Challenge Me,Don’t Challenge Me / You’re Shy,Makers,1972,185098,36,0.781,0.696,0.625,0.00858,0.109,-9.06,0.0275,97.602,1,2021-12-27
+8,I Tcho Tchass,Akofa Akoussah,Akofa Akoussah,2018-07-19,233892,42,0.948,0.418,0.52,0.0803,0.218,-10.374,0.133,74.396,3,2021-12-27
+9,Com Mais De 30,Jesus Cristo,Claudia,1971-01-01,162933,40,0.126,0.665,0.747,0.0,0.0721,-6.745,0.0309,90.628,4,2021-12-27
+10,Her Eyes Are a Blue Million Miles,Clear Spot,Captain Beefheart & His Magic Band,1972-09-11,177506,51,0.416,0.786,0.357,0.00119,0.0756,-15.838,0.0472,88.969,4,2021-12-27
+11,Wang Dang,Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007),Various Artists,2017-12-01,277000,34,0.476,0.459,0.926,0.326,0.157,-6.626,0.164,78.311,4,2021-12-27
+12,Zum-Zum,Cantiga De Longe,Edu Lobo,1970-04-07,170666,53,0.862,0.58,0.233,0.305,0.18,-18.373,0.0487,97.532,4,2021-12-27
+13,Cool Colorado,Paradigmes,La Femme,2021-04-02,232480,54,0.0415,0.505,0.762,6.12e-05,0.117,-7.15,0.0454,81.454,4,2021-12-27
+14,Cue Fanfare,Swoon,Prefab Sprout,1984-03-12,245826,34,0.0299,0.622,0.523,1.22e-05,0.0722,-14.126,0.0604,89.612,4,2021-12-27
+15,Western Bolero,Swing Slow,Swing Slow,2018-08-22,249733,37,0.855,0.74,0.157,0.546,0.079,-18.8,0.0345,95.998,4,2021-12-27
+16,Na Real Sekele Fo'Ya,African Funk Experimentals (1979 to 1981),Pasteur Lappe,2016-04-22,380217,41,0.219,0.734,0.86,0.514,0.651,-8.062,0.0674,117.14,4,2021-12-27
+17,Do You Realize,Fantasy,Aquarian Dream,1978,283840,40,0.509,0.392,0.697,0.00585,0.531,-11.988,0.0906,80.146,4,2021-12-27
+18,Moma Yendodo,Obaa Sima,Ata Kak,2015-03-03,332966,32,0.0694,0.907,0.729,0.704,0.131,-12.636,0.062,114.083,4,2021-12-27
+19,鉄鎖,Crumbling,Mid-Air Thief,2018-12-04,307700,23,0.583,0.349,0.774,0.114,0.422,-8.08,0.14,127.9,4,2021-12-27
+20,Phaideaux Corner,Alleycat,Nucleus,1975-01-01,379600,34,0.316,0.661,0.808,0.135,0.0523,-12.013,0.0499,99.083,4,2021-12-27
+21,Jazz Thing,Behold & See,Ultimate Spinach,1968,398517,36,0.497,0.508,0.413,0.201,0.163,-9.435,0.0367,119.14,4,2021-12-27
+22,Flute Thing,Projections,The Blues Project,1966,363133,35,0.778,0.477,0.409,0.702,0.0988,-13.828,0.0465,104.72,4,2021-12-27
+23,Never as Tired as When I'm Waking Up,LCD Soundsystem,LCD Soundsystem,2005-01-24,289893,49,0.408,0.647,0.482,0.0222,0.199,-6.631,0.0262,125.816,4,2021-12-27
+24,1:04 PM,Malik Ruff,Quadry,2018-11-02,130838,47,0.0538,0.814,0.851,0.0815,0.119,-6.618,0.0735,104.043,4,2021-12-27
+25,Pnhaeu samnieng,"Cambodian Soul Sounds, Vol. 1",Various Artists,2014-05-29,297884,31,0.426,0.67,0.888,0.746,0.314,-5.28,0.0477,117.219,4,2021-12-27
+26,Mother Nature's Son,Mother Nature's Son,Ramsey Lewis,1968-12-31,294200,40,0.397,0.292,0.519,0.854,0.479,-11.851,0.0368,177.951,3,2021-12-27
+27,C.Rock,Chinese Restaurant,Krisma,1977-01-01,329786,36,0.0541,0.602,0.933,0.872,0.107,-6.113,0.0371,160.299,4,2021-12-27
+28,Naturalmente,Marcos Valle,Marcos Valle,1983-01-01,244200,35,0.402,0.719,0.572,0.898,0.125,-11.245,0.0347,87.969,4,2021-12-27
+29,"Vergiss Mich, Wenn Du Kannst",Moonflowers & Mini-Skirts,Peter Thomas,2003,151640,36,0.0605,0.615,0.684,2.3e-05,0.23,-7.814,0.0321,114.811,4,2021-12-27

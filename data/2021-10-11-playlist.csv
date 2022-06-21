@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,Kothbiro,Black Savage,Black Savage,1975-01-01,247302,33,0.0569,0.427,0.355,0.00279,0.415,-14.34,0.0316,81.115,4,2021-10-11
+1,D’Hardest,Sweet Sweet Dreams,Shadow,2012-12-10,453792,20,0.114,0.863,0.773,0.0208,0.0397,-9.311,0.126,111.859,4,2021-10-11
+2,Moon Rocks - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,345573,48,0.0572,0.867,0.656,0.819,0.406,-9.019,0.041,123.654,4,2021-10-11
+3,Moses,Nino And Radiah Et Le Sud,Nino Ferrer,2013-01-01,285493,30,0.707,0.758,0.658,0.00148,0.104,-6.46,0.0281,108.707,4,2021-10-11
+4,Fang Jai Viangjan,"The Sound of Siam, Vol. 2 (Molam & Luk Thung Isan From North-East Thailand 1970 - 1982)",Various Artists,2014-05-26,248453,32,0.663,0.479,0.461,0.0,0.124,-6.716,0.154,166.376,4,2021-10-11
+5,Back to the Streets,Seafaring Strangers: Private Yacht,Various Artists,2017-06-16,308786,29,0.678,0.495,0.922,4.14e-05,0.176,-6.361,0.126,94.209,4,2021-10-11
+6,Just Like a Baby,There's a Riot Goin' On,Sly & The Family Stone,1971-11-01,311000,40,0.00891,0.84,0.398,0.361,0.0921,-13.419,0.0333,97.979,1,2021-10-11
+7,I Don't Know - Remastered,Hello Nasty (Deluxe Version/Remastered 2009),Beastie Boys,1998-07-14,180373,50,0.447,0.869,0.406,0.903,0.0713,-15.172,0.0662,114.024,4,2021-10-11
+8,Far East Man,Dark Horse (Remastered),George Harrison,1974-12-09,351800,35,0.184,0.527,0.442,7.24e-05,0.107,-11.163,0.0378,134.581,4,2021-10-11
+9,Piledriver,Mother Trucker,Dennis the Fox,2017-05-11,307920,33,0.582,0.576,0.769,0.000259,0.0838,-10.046,0.0525,96.768,4,2021-10-11
+10,Today,Diggin' In The Crates,Various Artists,2019-07-05,199053,37,0.209,0.462,0.784,0.0131,0.0659,-5.069,0.0413,107.66,4,2021-10-11
+11,Saudade Vem Correndo,Jazz Samba Encore!,Stan Getz,1963,219093,51,0.946,0.634,0.288,0.163,0.366,-16.798,0.0377,90.633,4,2021-10-11
+12,Goin' to See My Baby,Best of Perception & Today Records Sampler: I Keep Asking You Questions B/W Goin to See My Baby,Black Ivory,2012-05-14,196177,30,0.192,0.729,0.536,0.0831,0.0637,-10.21,0.0447,112.26,4,2021-10-11
+13,Saat Alfarah,"Jazz, Jazz, Jazz (Habibi Funk 009)",The Scorpions,2018-11-09,286500,27,0.145,0.531,0.753,3.04e-06,0.0608,-6.128,0.0537,88.743,4,2021-10-11
+14,Can You Feel It,"Next Stop ... Soweto Vol. 2: Soultown. R&B, Funk & Psych Sounds from the Townships 1969-1976",Various Artists,2010-05-10,164081,33,0.751,0.516,0.51,0.867,0.154,-9.02,0.0308,152.344,4,2021-10-11
+15,Silicon Chip,Basil Kirchin Is My Friend: A Trunk Records Sampler,Basil Kirchin,2017-07-19,250236,30,0.0113,0.517,0.811,0.39,0.148,-11.64,0.102,111.46,4,2021-10-11
+16,Transport Connection,One Two,Sister Nancy,2002-03-15,225080,39,0.673,0.594,0.587,2.18e-06,0.364,-6.813,0.287,77.95,4,2021-10-11
+17,Jungle Music,Various Bilongo,Various Artists,2000,336133,39,0.807,0.755,0.729,0.249,0.0968,-8.891,0.064,102.306,4,2021-10-11
+18,Que Bandeira,Cartão Postal,Evinha,1971-01-05,149420,40,0.756,0.755,0.537,3.22e-06,0.355,-10.679,0.0381,93.393,4,2021-10-11
+19,Few Bana Zambia,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,262373,38,0.882,0.634,0.98,0.094,0.275,-4.791,0.0588,88.85,4,2021-10-11
+20,Summer Madness S.A. - Mixed,DJ-Kicks (Kamaal Williams) [DJ Mix],Kamaal Williams,2019-11-08,64531,38,0.314,0.637,0.547,1.04e-06,0.205,-10.961,0.337,89.604,4,2021-10-11
+21,Eastern Market,Yusef Lateef's Detroit Latitude 42º 30º Longitude 83º,Yusef Lateef,1969,259399,26,0.485,0.552,0.716,0.00062,0.309,-11.038,0.0631,113.916,4,2021-10-11
+22,At the Hotel,Back to Mine,Fatboy Slim,2020-11-06,208533,37,0.836,0.777,0.339,1.58e-05,0.163,-12.107,0.0817,89.692,4,2021-10-11
+23,Hey Policeman!,Psychemagik Presents Magik Cyrkles,Various Artists,2012-10-22,196560,32,0.0525,0.881,0.64,0.00769,0.0669,-6.859,0.19,101.29,4,2021-10-11
+24,You're A Song (That I Can't Sing),Chameleon,Frankie Valli & The Four Seasons,1972-05-01,191560,40,0.183,0.498,0.556,1.3e-05,0.0444,-9.222,0.034,78.413,4,2021-10-11
+25,Tessassategn eko,"Ethiopiques, Vol. 8: Swinging Addis 1969-1974",Various Artists,2004-07-04,245493,32,0.797,0.72,0.483,0.00279,0.129,-9.063,0.0337,131.819,4,2021-10-11
+26,That's All for Everyone - 2015 Remaster,Tusk (Deluxe Edition),Fleetwood Mac,1979-10-12,181306,36,0.505,0.62,0.438,0.164,0.234,-12.288,0.0287,114.572,4,2021-10-11
+27,Heaven and Hell Is on Earth,Warm Heart Cold Steel,20th Century Steel Band,2009-10-23,313146,34,0.0398,0.674,0.501,0.000123,0.0818,-12.907,0.0579,107.363,4,2021-10-11
+28,Degi-Degi,Don Cherry,Don Cherry,1975,426133,31,0.668,0.273,0.625,0.525,0.0871,-10.344,0.0507,153.026,4,2021-10-11
+29,WEIGHT OFF,99.9%,KAYTRANADA,2016-05-06,155960,53,0.521,0.65,0.495,0.724,0.123,-6.385,0.0455,80.032,4,2021-10-11
