@@ -1,0 +1,31 @@
+, name,album,artist,release_date,length,popularity,dancebility,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,playlist_date
+0,There You Are,Joy Techniques,Nate Mercereau,2019-07-12,360293,41,0.071,0.636,0.936,0.876,0.0668,-4.445,0.354,83.994,4,2022-07-25
+1,Lemon Grass,"Metal Fingers Presents: Special Herbs, The Box Set Vol. 0 - 9",MF DOOM,2006-01-24,154906,34,4.5e-05,0.394,0.597,0.953,0.0635,-9.854,0.0405,191.783,4,2022-07-25
+2,Queen Persephone,Basement Seance,Dirty Art Club,2017-08-04,238240,42,0.0081,0.643,0.554,0.256,0.807,-10.309,0.0311,104.586,4,2022-07-25
+3,Since You Asked Kindly,III,BADBADNOTGOOD,2014-05-05,281475,41,0.0256,0.469,0.816,0.868,0.0999,-8.566,0.0376,130.594,4,2022-07-25
+4,Tenebre - Originale,Tenebre,Claudio Simonetti,2010-08-04,272453,40,0.113,0.697,0.512,0.406,0.15,-14.462,0.0349,116.544,5,2022-07-25
+5,Ingranaggi pesanti,Lavoro e tempo libero,Giuliano Sorgini,1980-10-24,78066,36,0.688,0.522,0.795,0.118,0.136,-13.777,0.0853,86.948,4,2022-07-25
+6,Beyond the Clouds,Space Oddities: Studio Ganaro (1972-1982),Nino Nardini,2016-05-27,123973,26,0.474,0.581,0.821,0.922,0.291,-6.147,0.0332,139.382,4,2022-07-25
+7,In der Stadt und auf dem Land,"The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 3",Kosmischer Läufer,2015-11-30,136160,36,0.834,0.691,0.357,0.916,0.0927,-12.579,0.036,124.753,4,2022-07-25
+8,Liptones,YosepH,Luke Vibert,2003-10-13,241866,33,0.0103,0.741,0.406,0.878,0.0985,-13.254,0.0667,172.021,4,2022-07-25
+9,Shark Butt,Marshmallow,The Sweet Enoughs,2020-05-01,325760,38,0.783,0.833,0.369,0.92,0.0739,-12.927,0.0553,105.02,3,2022-07-25
+10,Daphnis et Chloe: Part III: Lever du jour,Ravel: Daphnis and Chloe,Maurice Ravel,2006-11-21,329906,50,0.925,0.0704,0.179,0.911,0.112,-17.395,0.0409,77.027,3,2022-07-25
+11,Лирическая,II,СОЮЗ,2019-05-14,183871,37,0.276,0.385,0.266,0.345,0.0967,-16.653,0.0295,144.552,4,2022-07-25
+12,Electricity,Since I Left You (20th Anniversary Deluxe Edition),The Avalanches,2000-11-27,209933,48,0.0946,0.532,0.768,0.0429,0.194,-7.42,0.0649,105.041,4,2022-07-25
+13,Berimbau,Rio / Bodianova,Bodikhuu,2019-03-05,113430,50,0.235,0.736,0.832,0.027,0.115,-6.612,0.171,90.308,4,2022-07-25
+14,Trumpet Sketches - Remastered,Pop Impressions (Remastered),Janko Nilovic,2014-08-04,102851,32,0.055,0.583,0.641,0.888,0.419,-6.35,0.0382,100.263,4,2022-07-25
+15,To Another Universe,Celestial Ocean,Brainticket,2003,296558,26,0.869,0.583,0.384,0.896,0.341,-17.69,0.0664,164.792,3,2022-07-25
+16,Introlude,Redukqs,Unown,2018-12-21,176843,31,0.00758,0.47,0.93,0.715,0.0682,-11.827,0.216,174.95,4,2022-07-25
+17,Nel cimitero di Tucson,Preparati la bara ! (Original Motion Picture Soundtrack) [Remastered],Gianfranco & Gianpiero Reverberi,2007,138613,30,0.0695,0.446,0.105,0.916,0.106,-16.913,0.0355,113.704,4,2022-07-25
+18,Double Astral Move,Energy Dreams,Rejoicer,2018-08-31,207021,32,0.472,0.476,0.858,0.0956,0.336,-8.461,0.211,171.895,5,2022-07-25
+19,「The Art of Fun」 (Raj),A Year in Your Garden,Column,2013-12-20,207813,30,0.86,0.881,0.34,0.914,0.0925,-16.346,0.0433,120.11,4,2022-07-25
+20,P64 By My Side,Septet,John Carroll Kirby,2021-06-25,251643,37,0.658,0.544,0.573,0.409,0.0794,-7.334,0.0421,78.063,4,2022-07-25
+21,Like Regular Chickens,Permutation,Amon Tobin,1998,316253,2,0.0138,0.467,0.736,0.723,0.351,-14.054,0.0449,88.559,4,2022-07-25
+22,Wede Harer Guzo,Wede Harer Guzo,Hailu Mergia,2016-06-17,395706,45,0.00606,0.307,0.547,0.008,0.0775,-10.286,0.032,97.644,4,2022-07-25
+23,Neal And Jack And Me,Beat,King Crimson,1982-01-01,262092,41,0.167,0.63,0.628,3.39e-05,0.333,-10.356,0.0331,148.661,4,2022-07-25
+24,WO QUI NON COIN,「COWBOY BEBOP」オリジナルサウンドトラック3 BLUE,Various Artists,1999,221101,19,0.259,0.897,0.234,0.0206,0.053,-15.551,0.132,107.972,4,2022-07-25
+25,Midnight On Mars,Blackouts,Ashra,1978-01-01,416026,36,0.553,0.296,0.213,0.918,0.294,-16.041,0.0381,130.176,5,2022-07-25
+26,Set In Stone,Sketch,Scattle,2017-02-10,209801,43,0.19,0.855,0.906,0.947,0.124,-8.522,0.0413,151.002,4,2022-07-25
+27,Toy Dog,Buy Now,Eyeliner,2015-06-27,245456,32,0.171,0.565,0.774,0.392,0.134,-8.565,0.0322,82.035,4,2022-07-25
+28,Delia Derbyshire,L'illustration Musicale,King Of Woolworths,2002-09-02,370800,36,0.0417,0.639,0.807,0.928,0.101,-9.686,0.0527,179.975,4,2022-07-25
+29,Barefoot In The Park,Neon Genesis Evangelion (Original Series Soundtrack),Shiro Sagisu,2019-06-21,157026,45,0.833,0.414,0.464,0.938,0.107,-14.587,0.0342,125.933,4,2022-07-25
